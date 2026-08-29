@@ -56,18 +56,17 @@
 
 ### 📊 GitHub Statistics
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=LucianLe2942006&theme=tokyonight&hide_border=true&fire=ff9e64&border=58a6ff&currStreakNum=ff9e64" width="49%" />
-  <img src="https://github-readme-stats-git-masterrstl-rickstaa.vercel.app/api?username=LucianLe2942006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&text_color=58a6ff&icon_color=ff9e64&v=2" width="49%" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=LucianLe2942006&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LucianLe2942006&theme=tokyo-night&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" width="98%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LucianLe2942006&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats-git-masterrstl-rickstaa.vercel.app/api/top-langs/?username=LucianLe2942006&layout=compact&theme=tokyonight&hide_border=true&count_private=true&text_color=58a6ff&icon_color=ff9e64&v=2" width="55%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianLe2942006&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+</p>
 
 ---
 
