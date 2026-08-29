@@ -6,10 +6,10 @@
   </a>
 
   <p align="center">
-    <a href="https://github.com/YOUR_USERNAME?tab=repositories">
-      <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social" alt="Followers"/>
+    <a href="https://github.com/LucianLe2942006?tab=followers">
+      <img src="https://img.shields.io/github/followers/LucianLe2942006?label=Followers&style=social" alt="Followers"/>
     </a>
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat-square" alt="Views"/>
+    <img src="https://komarev.com/ghpvc/?username=LucianLe2942006&label=Profile%20Views&color=blue&style=flat-square" alt="Views"/>
   </p>
 </div>
 
@@ -50,12 +50,12 @@
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Lucian's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LucianLe2942006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=LucianLe2942006&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="55%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianLe2942006&layout=compact&theme=tokyonight&hide_border=true" width="55%" />
 </div>
 
 ---
@@ -63,10 +63,13 @@
 ### 📬 Connect With Me
 
 <p align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:nhuthuy2942006@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/huylnfptucantho/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/LeNhutHuy12A2THPTChuyenNBK" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
