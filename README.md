@@ -53,15 +53,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucianLe2942006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="LucianLe2942006's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucianLe2942006&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
----
-
 ### 📫 Let's Connect!
 
 <div align="center">
